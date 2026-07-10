@@ -1,0 +1,8 @@
+# Project folders are independent git repos
+embedded-fundamentals/
+firmware-baremetal/
+arm-cortex/
+embedded-software-eng/
+embedded-rtos/
+embedded-iot/
+sentinel/
